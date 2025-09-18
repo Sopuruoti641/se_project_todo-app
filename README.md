@@ -13,3 +13,4 @@ Give a description of the technologies and techniques used. Pictures, GIFs, or s
 ## Deployment
 
 This project is deployed on GitHub Pages:
+[Delopyment-Link]-https://sopuruoti641.github.io/se_project_todo-app/
